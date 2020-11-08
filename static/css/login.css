@@ -60,12 +60,21 @@ body {
   min-width: 0;
   word-wrap: break-word;
   background-color: #fff;
+  opacity: 50%;
   border: 1px solid rgba(0, 0, 0);
   border-radius: 0.25rem;
 }
+
 .bodycolor
 {
-    background-color: #000000;
+    background: linear-gradient(rgba(255,255,255,.25), rgba(255,255,255,.25)), url('../img/calender.jpg');
+    background-size: 1800px 750px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+
+   
+
 }
 .text-font {
   font-family:'Bravo', sans-serif !important;
@@ -95,7 +104,9 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
-
+.modal{
+   border-radius: 5px; 
+}
 .modal .modal-header {
   background: #343a40;
   color: floralwhite; }
@@ -108,4 +119,12 @@ body {
 
 .center{
   align-content: center !important ; 
+}
+.card, .card-header
+{
+ border-radius: 75px; 
+ background-color: transparent;
+ border-color: transparent;
+
+
 }

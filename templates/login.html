@@ -13,7 +13,7 @@
     <script src="{% static 'js/jquery.bootstrap.modal.forms.js' %}"></script>
     <script src="{% static 'js/bootstrap.min.js' %}"></script>
    <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
-    <script type="text/javascript" src="{% static 'js/login.js' %}"></script>>
+    <script type="text/javascript" src="{% static 'js/login.js' %}"></script>
     <style> 
 	@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css););
 	</style>
@@ -40,22 +40,24 @@
 	</div>
 	<div class= "container">
 		<div class = "row" >
-			<div class="col-12 col-md-6" style="margin: auto; display: block;" >
+			<div class="col-8 offset-2  align-self-center" style="margin: auto; display: block;">
 
 
-				<img src="{% static 'img/notebook.jpg' %}" alt= "Notebook" class ="img-fluid img-set"  >
-			</div>
 
-			<div class="col-12 col-md-6" style="margin: auto; display: block;" >
-				<div class= "card-login" >
-					<h3 class="card-header bg-dark text-white text-xl-center text-font"> TRACK AND TRIGGER </h3>
+			 
+				<div class= "card rounded">
+					<h1 class="card-header text-center text-font"> TRACK AND TRIGGER </h1>
 					<div class="card-body align-self-center" >
-						
-						<button class ="btn btn-pink text-white" id="Button" ><i class="fa fa-sign-in open"></i>  Login</button>
-						<button class ="btn btn-purple text-white" id="Buttonsign"><span class="fa fa-user-plus open"></span>  Sign Up</button>
-					</div>
+						<div class="col-12 text-center">
+						<button class ="btn btn-pink btn-lg text-white" id="Button" ><i class="fa fa-sign-in open"></i>  Login</button>
+                    </div>
+                    <br>
+                    <div class="col-12 text-xl-center">
+						<button class ="btn btn-purple btn-lg text-white" id="Buttonsign"><span class="fa fa-user-plus open"></span>  Sign Up</button>
+                    </div>
 					</div>
 				</div>
+				
 				
 			</div>
 
