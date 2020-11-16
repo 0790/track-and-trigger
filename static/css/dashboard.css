@@ -1,0 +1,169 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
+
+.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #9575CD;
+  color: floralwhite; }
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; 
+    }
+
+
+.card-login {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  opacity: 50%;
+  border: 1px solid rgba(0, 0, 0);
+  border-radius: 0.25rem;
+}
+
+.bodycolor
+{
+    background: linear-gradient(rgba(255,255,255,.25), rgba(255,255,255,.25)), url('../img/background.jpg');
+    background-size: 1800px 750px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+
+   
+
+}
+.text-font {
+  font-family:'Bravo', sans-serif !important;
+  
+}
+.navbar-dark {
+  background-color: #512DA8; }
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px; }
+
+
+.modal{
+   border-radius: 15px; 
+}
+.modal .modal-header {
+  background: #343a40;
+  color: floralwhite; }
+.modal .modal-header .close {
+    color: floralwhite; }
+
+.modal .modal-body {
+  background: : #000; 
+}
+
+.center{
+  align-content: center !important ; 
+}
+.card, .card-header
+{
+ border-radius: 75px; 
+ background-color: transparent;
+ border-color: transparent;
+
+
+}
+
+.btn-pink {
+  color: #212529;
+  background-color: #e83e8c;
+  border-color: #e83e8c;
+}
+.btn-pink:hover {
+  color: #212529;
+  background-color: #e57685;
+  border-color:#e57685;
+}
+
+.btn-purple {
+  color: #212529;
+  background-color: #6f42b7;
+    border-color: #6f42B7;
+}
+.btn-purple:hover {
+  color: #212529;
+  background-color:#B19CC6 ;
+  border-color:#B19CC6;
+}
+.btn-peach{
+   color: #212529;
+  background-color:#EDC7B7 ;
+  border-color:#EDC7B7;
+
+}
+.btn-skin{
+   color: #212529;
+  background-color:#Eee2dc ;
+  border-color:#Eee2dc;
+
+}.btn-mildviolet{
+   color: #212529;
+  background-color:#bab2b5 ;
+  border-color:#bab2b5;
+
+}.btn-darkblue{
+   color: #212529;
+  background-color:#123c69 ;
+  border-color:#123c69;
+
+}.btn-rosepink{
+   color: #212529;
+  background-color:#ac3b61 ;
+  border-color:#ac3b61;
+
+}.btn-jasmine{
+   color: #212529;
+  background-color:#b39bc8 ;
+  border-color:#b39bc8;
+
+}.btn-offwhite{
+   color: #212529;
+  background-color:#f0ebf4 ;
+  border-color:#f0ebf4;
+
+}.btn-darkskin{
+   color: #212529;
+  background-color:#f172a1 ;
+  border-color:#f172a1;
+
+}.btn-rose{
+   color: #212529;
+  background-color:#E64398 ;
+  border-color:#E64398;
+
+}.btn-skyblue{
+   color: #212529;
+  background-color:#a1c3d1 ;
+  border-color:#a1c3d1;
+
+}
