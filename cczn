@@ -1,0 +1,41 @@
+[33mcommit 0ac5fbc484732d9b9b3d0cad878edc69d74613b0[m[33m ([m[1;36mHEAD -> [m[1;32mdeepti[m[33m)[m
+Author: 0790D <f20180790@hyderabad.bits-pilani.ac.in>
+Date:   Tue Nov 17 19:15:47 2020 +0530
+
+    SignUp modal design change
+
+[33mcommit 3bbbe1ee42c35863aa4967cf91a4e36a7305c154[m[33m ([m[1;31morigin/deepti[m[33m)[m
+Author: 0790D <f20180790@hyderabad.bits-pilani.ac.in>
+Date:   Mon Nov 16 22:18:26 2020 +0530
+
+    login modal changed
+
+[33mcommit f1984801349a1bb158b860f2eac6d6c30e8151b4[m
+Author: 0790D <f20180790@hyderabad.bits-pilani.ac.in>
+Date:   Sun Nov 8 19:29:22 2020 +0530
+
+    Minor design changes in login
+
+[33mcommit d0310a7d3bdfc8949c934faa3118f09a80cf50a6[m
+Author: 0790D <f20180790@hyderabad.bits-pilani.ac.in>
+Date:   Thu Nov 5 19:07:04 2020 +0530
+
+    login initial design
+
+[33mcommit 091d0f79c37dac891eea75278eac3ab2cf531313[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Eva <eva.tiwari@gmail.com>
+Date:   Wed Oct 28 17:32:25 2020 +0530
+
+    Apps generated for login and dashboard
+
+[33mcommit 6914e41e1df0c99e376089deda93bef3ad67d72f[m
+Author: Eva <eva.tiwari@gmail.com>
+Date:   Tue Oct 27 23:32:03 2020 +0530
+
+    Making static and template folders visible
+
+[33mcommit 9b3b1e66f115ad5090fea51aeb078c93fde87178[m
+Author: Eva <eva.tiwari@gmail.com>
+Date:   Tue Oct 27 23:27:15 2020 +0530
+
+    Initial commit
